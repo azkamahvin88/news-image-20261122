@@ -1,6 +1,8 @@
 # Sunday 22 November 2026: 35 stories — Gulf on edge, Trump–Xi–Putin summit, EU arms Ukraine €1bn
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261122-red)](https://make.fun/c/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/azkamahvin88/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/azkamahvin88/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 A make.fun entry for **news-image-20261122** — "Sum up 22 November's world news in one image".
 The program draws a one-page newspaper front page of Sunday 22 November 2026:
